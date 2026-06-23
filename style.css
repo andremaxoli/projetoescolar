@@ -7,12 +7,12 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-    width: 2100px;
+    width: 1980px;
     height: 245px;
     background: #000;
 }
 .cabecalho-itens{
-max-width: 2100px;
+max-width: 1980px;
 margin: 0 auto;
 display: flex;
 align-items: center;
@@ -56,7 +56,7 @@ width: 38px;
 padding: 4px 8px;
 }
 .estudante{
-background-image: background-color(#faae43);
+background-image: background-color(#000000);
 padding: 24px 0;
 }
 
