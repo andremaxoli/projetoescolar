@@ -8,7 +8,7 @@ font-family: "Poppins", sans-serif;
 }
 header{
     width: 1980px;
-    height: 245px;
+    height: 400px;
     background: #000;
 }
 .cabecalho-itens{
@@ -90,10 +90,4 @@ padding: 12px 0;
 .link{
 color: #ffffff;
 text-decoration: none;
-}
-.caixa {
-    width: 245px;
-    height: 245px;
-    background-image: url "scp.jpeg";
-    background-size: cover;
 }
