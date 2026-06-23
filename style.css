@@ -91,7 +91,9 @@ padding: 12px 0;
 color: #ffffff;
 text-decoration: none;
 }
-.foto {
+.caixa {
     width: 245px;
     height: 245px;
+    background-image: url("scp.jpeg";
+    background-size: cover;
 }
