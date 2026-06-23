@@ -7,12 +7,12 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-    width: 1980px;
+    width: 2010px;
     height: 245px;
     background: #000;
 }
 .cabecalho-itens{
-max-width: 1980px;
+max-width: 2010px;
 margin: 0 auto;
 display: flex;
 align-items: center;
