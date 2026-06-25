@@ -91,3 +91,10 @@ padding: 12px 0;
 color: #ffffff;
 text-decoration: none;
 }
+.titulo_site {
+    color: white; 
+}
+
+.texto {
+    color: rgb(255, 255, 255);
+}
