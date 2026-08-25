@@ -174,3 +174,8 @@ main h2 {
 main p {
     font-size: 18px;
 }
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
