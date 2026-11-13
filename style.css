@@ -180,10 +180,6 @@ header {
     z-index: 1000;
 }
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 body {
   margin: 0;
   padding: 0;
@@ -216,22 +212,26 @@ ul li a {
 ul li a:hover {
   background-color: #111111;
 }
-</style>
-</head>
-<body>
 
-<ul>
-  <li><a href="#menu">menu</a></li>
-  <li><a href="#games">games</a></li>
-  <li><a href="#videos">video</a></li>
-  
-</ul>
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #333;
+  }
+  li {
+    float: left;
+  }
+  a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  a:hover {
+    background: #111;
+  }
 
-<h2>Horizontal Navbar Using Float</h2>
-
-<p>Some text on the website.</p>
-
-</body>
-</html>
 
 
